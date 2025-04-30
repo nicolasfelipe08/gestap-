@@ -1,4 +1,4 @@
-# INFINIT NET
+# INFINITY NET
 **Exemplo Visual:**
 
 | Cor | Código Hexadecimal | Justificativa |
